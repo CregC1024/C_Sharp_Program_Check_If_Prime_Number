@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Program_Check_If_Prime_Number", "C_Sharp_Program_Check_If_Prime_Number\C_Sharp_Program_Check_If_Prime_Number.csproj", "{1799CF34-1DCE-44D9-9216-E602D92C810B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1799CF34-1DCE-44D9-9216-E602D92C810B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1799CF34-1DCE-44D9-9216-E602D92C810B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1799CF34-1DCE-44D9-9216-E602D92C810B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1799CF34-1DCE-44D9-9216-E602D92C810B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8CB7B6D-8A9E-4FB5-83B2-0A0BA1A9C1FF}
+	EndGlobalSection
+EndGlobal
